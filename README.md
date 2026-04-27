@@ -1,1 +1,2 @@
 # Credit-Card-Fraud-Detection
+Credit Card Fraud Detection project using both Supervised and Unsupervised Machine Learning Techniques. The goal of the project was to predict fraudulent transactions and provide a simple, user-friendly interface for real-time fraud detection. Trained four models: Logistic Regression, Decision Tree, Random Forest, and XGBoost, evaluated their performance using classification metrics, and selected XGBoost for its best precision and recall
